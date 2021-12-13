@@ -1,4 +1,4 @@
-Mi### Hi there 👋
+Hi there 👋
 
 <p>#- 🔭 I’m currently working in you hearth</p>
 <p>#- 🌱 I’m currently learning 42 madrid </p>
