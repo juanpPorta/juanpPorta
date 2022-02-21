@@ -16,7 +16,7 @@
   
 
 <br/>  
-
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jporta)](https://github.com/JaeSeoKim/badge42)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -39,16 +39,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -73,8 +64,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=juanpPorta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jporta)](https://github.com/JaeSeoKim/badge42)
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpPorta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpPorta&layout=compact)](https://github.com/juanpPorta)
