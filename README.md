@@ -65,6 +65,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=juanpPorta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpPorta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
